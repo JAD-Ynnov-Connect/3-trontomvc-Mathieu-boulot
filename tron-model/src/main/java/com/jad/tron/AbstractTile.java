@@ -1,5 +1,7 @@
 package com.jad.tron;
 
+import com.jad.tron.ITile;
+import com.jad.tron.Sprite;
 import lombok.Getter;
 
 @Getter
